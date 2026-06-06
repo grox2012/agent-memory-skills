@@ -1,0 +1,3 @@
+display_name: Google Drive Memory Write
+short_description: Write durable memories into Drive-backed MemoryFS.
+default_prompt: Remember this in the Google Drive-backed MemoryFS.
