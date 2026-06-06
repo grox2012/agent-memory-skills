@@ -1,0 +1,3 @@
+display_name: Google Drive Memory Init
+short_description: Initialize a Drive-backed agent memory filesystem.
+default_prompt: Set up the Google Drive-backed MemoryFS and give me the system prompt for using it.
